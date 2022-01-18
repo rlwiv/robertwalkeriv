@@ -11,7 +11,7 @@ Outside of work, I enjoy...
 
 * 🃏 Playing Yu-Gi-Oh TCG 
 
-* 😅 Interesting Fact: I'm a cult defector
+* 🏀⚾🏈 Daily Fantasy Sports
 
 ✍️📝Writing
 
