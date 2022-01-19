@@ -21,9 +21,9 @@ Outside of work, I enjoy...
 
 📬**Connect with Me**
 
-<a href="rwalke18@gmail.com">Gmail</a>
+* <a href="rwalke18@gmail.com">Gmail</a>
 
-<a href="https://www.linkedin.com/in/rlwiv/">Linkedin</a>
+* <a href="https://www.linkedin.com/in/rlwiv/">Linkedin</a>
 
 <!---
 robertwalkeriv/robertwalkeriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
