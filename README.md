@@ -23,6 +23,8 @@ Outside of work, I enjoy...
 
 ✍️📝**Writing**
 
+* <a href="https://www.linkedin.com/pulse/cutting-through-from-industrial-engineer-data-robert-l-walker-iv">Cutting Through: From Industrial Engineer to Data Scientist</a>
+
 📬**Connect with Me**
 
 * <a href="rwalke18@gmail.com">Gmail</a>
