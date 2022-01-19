@@ -1,6 +1,6 @@
 **👋Hi, I'm Robert L Walker IV**
 
-I'm an Industrial Engineer who's interested in transitioning into a career in Data Science. I am an innovative problem-solver with a passion for continuous improvement and optimization through data analysis and lean methodologies. I began my journey into Data Science through the **University of Tennessee's** Industrial and Information Engineering undergraduate program where I studied Operations Research and other Statistics Methodologies in great detail. I've sense expounded on that foundation by attending **Vanderbilt University’s Data Analytics and Visualization Boot Camp** where I have developed a foundation in numerous coding languages such as Python, R, SQL, Java, and many more. I have a keen interest in manipulating large data sets, driving process improvement initiatives, designing, building, and deploying machine learning applications, as well as writing. 
+I'm an Industrial Engineer who's interested in transitioning into a career in Data Science. I am an innovative problem-solver with a passion for continuous improvement and optimization through data analysis and lean methodologies. I began my journey into Data Science through the **University of Tennessee's** Industrial and Information Engineering undergraduate program where I studied Operations Research and other Statistics Methodologies in great detail. I've sense expounded on that foundation by attending **Vanderbilt University’s Data Analytics and Visualization Boot Camp** where I have developed a foundation in numerous coding languages such as Python, R, SQL, Java, and many more. I have a keen interest in manipulating large data sets, driving process improvement initiatives, designing, building, and deploying machine learning applications, as well as writing.
 
 Outside of work, I enjoy...
 
@@ -16,7 +16,10 @@ Outside of work, I enjoy...
 
 🎓 **Education**
 
-  * 
+  * Bachelor of Science in Industrial Engineering from the Univervisity of Tennessee, 2012
+  * Master of Science in Engineering Technology from the University of Memphis, 2014
+  * Master of Business Administration from Christian Brothers University, 2021
+  * Vanderbilt University Bootcamp - Data Analytics and Visualization, 2021
 
 ✍️📝**Writing**
 
