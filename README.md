@@ -13,11 +13,17 @@ Outside of work, I enjoy...
 
 * 🏀⚾🏈 Daily Fantasy Sports
 
-✍️📝Writing
+🎓 **Education**
 
-📬Connect with Me📬
+  * 
 
-**LinkedIn** - https://www.linkedin.com/in/rlwiv/
+✍️📝**Writing**
+
+📬**Connect with Me**
+
+<a href="rwalke18@gmail.com">Gmail</a>
+
+<a href="https://www.linkedin.com/in/rlwiv/">Linkedin</a>
 
 <!---
 robertwalkeriv/robertwalkeriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
